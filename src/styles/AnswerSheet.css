@@ -1,0 +1,52 @@
+.text-title {
+  padding-top: .2em;  
+  font-family: 'Playfair Display', sans-serif ;
+  font-size: 7em;
+  width: 1650px;
+  color: var( --light-color);
+  text-align: center;
+  position: relative;
+}
+
+.text-title-two {
+  padding-top: .1em;  
+  font-family: 'Playfair Display', sans-serif ;
+  font-size: 4em;
+  width: 1650px;
+  color: var( --light-color);
+  justify-content: center;
+  position: center;
+  display: flex;
+}
+
+.text-paragraph {
+  display: flex;
+  font-size: 03em;
+  width: 1650px;
+  color: var( --light-color);
+}
+
+.text-paragraph-two {
+  font-weight: bold;
+  font-size: 1.7em;
+  width: 1650px;
+  color: var( --light-color);
+}
+
+.text-paragraph-bottom {
+  padding-left: 600px; 
+  padding-bottom: 200px;
+  font-size: 1.7em;
+  width: 1650px;
+  color: var( --light-color);
+}
+
+.allignment-one {
+  padding-left: 580px; 
+
+}
+
+.allignment-two {
+  padding-left: 600px; 
+  padding-bottom: -70px;
+}

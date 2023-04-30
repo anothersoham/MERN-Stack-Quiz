@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Playfair+Display:ital@1&family=Poppins:wght@200&display=swap');
+
+.start{
+    display: flex;
+    justify-content: center;
+    padding-top: 2em;
+}
+
+.start .btn{
+    padding: .2em 1.7em;
+    border: none;
+    border-radius: .1em;
+    font-size: 2em;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #111111;
+}
+
+#form{
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+#form .userid{
+    padding: .4em 1em;
+    width: 25%;
+    border: none;
+    border-radius: 3px;
+    font-size: 2em;
+}
